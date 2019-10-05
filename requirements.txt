@@ -2,4 +2,3 @@ flask
 sklearn
 pandas
 requests
-httpretty
